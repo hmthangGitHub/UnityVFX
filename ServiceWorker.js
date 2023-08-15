@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-PraticalShader-0.1.0";
 const contentToCache = [
-    "Build/Builds.loader.js",
-    "Build/Builds.framework.js",
-    "Build/Builds.data",
-    "Build/Builds.wasm",
+    "Build/PraticalShaderBuilds.loader.js",
+    "Build/PraticalShaderBuilds.framework.js",
+    "Build/PraticalShaderBuilds.data",
+    "Build/PraticalShaderBuilds.wasm",
     "TemplateData/style.css"
 
 ];
